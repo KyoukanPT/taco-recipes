@@ -16,6 +16,10 @@
 
 <h3>Project Folder Directory (Terminal)</h3>
 3 - npm install <br>
+4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
+5 - npm install <a href="https://ejs.co/"> EJS </a> <br>
+6 - npm install <a href="https://www.npmjs.com/package/body-parser">Body Parser </a> <br>
+7 - node app.js <br>
 
 <hr>
 <h3>How to use the App?</h3>
