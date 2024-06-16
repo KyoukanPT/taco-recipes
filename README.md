@@ -15,7 +15,7 @@
 <hr>
 
 <h3>Project Folder Directory (Terminal)</h3>
-
+3 - npm install <br>
 
 <hr>
 <h3>How to use the App?</h3>
