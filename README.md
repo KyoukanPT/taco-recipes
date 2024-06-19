@@ -23,4 +23,5 @@
 
 <hr>
 <h3>How to use the App?</h3>
-<p>After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a> and click on the Chicken, Beef or Fish image to show it's respective data. </p>
+<p>After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. <br><br>
+ - Click on the Chicken, Beef or Fish image to show it's respective data. </p>
