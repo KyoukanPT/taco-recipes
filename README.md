@@ -22,6 +22,7 @@
 7 - node index.js <br>
 
 <hr>
+
 <h3>How to use the App?</h3>
-<p>After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
-<p></p>Click on the Chicken, Beef or Fish image to show its respective data. </p>
+<p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
+<p> - Click on the Chicken, Beef or Fish image to show its respective data. </p>
