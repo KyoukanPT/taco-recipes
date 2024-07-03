@@ -16,9 +16,7 @@
   </form>
   <div id="recipeContainer" class="hidden">
 
-    <!-- If no recipe yet, show: -->
     <h2> <%= recipeName === "" ? "Pick your favourite taco ingredient 👆" : recipeName %> </h2>
-    <!-- Else, show the recipe name e.g. <h2>Recipe name</h2>-->
 
     <h3>Ingredients:</h3>
     <ul id="ingredientsList">
@@ -28,9 +26,6 @@
         <li><%= element %></li>
       <% }); %>
     </ul>
-
-
-
   </div>
 </body>
 
