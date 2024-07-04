@@ -9,7 +9,7 @@
 <hr>
 
 <h3>Node Installation</h3>
- 
+
 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br> 
 
 <hr>
